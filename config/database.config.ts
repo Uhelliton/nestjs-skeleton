@@ -3,8 +3,8 @@ const databaseConfig = {
   "host": "localhost",
   "port": 3306,
   "username": "root",
-  "password": "785412",
-  "database": "igestao_dev",
+  "password": "",
+  "database": "",
   "entities": ["dist/**/*.entity{.ts,.js}"],
   "synchronize": true
 }
